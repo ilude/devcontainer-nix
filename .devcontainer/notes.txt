@@ -1,0 +1,4 @@
+https://github.com/cachix/cachix/blob/master/.devcontainer/devcontainer.json
+nix profile install nixpkgs#direnv nixpkgs#nix-direnv
+
+https://github.com/lucernae/devcontainer-nix/blob/main/Dockerfile
